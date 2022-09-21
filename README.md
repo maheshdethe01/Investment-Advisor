@@ -1,5 +1,6 @@
 # Investment-Advisor
 
+## Tech Stack - Python,Excel,Tableau
 ## Objective of the Analysis
 1.
 2.
