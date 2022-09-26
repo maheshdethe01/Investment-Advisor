@@ -9,6 +9,8 @@
 <img src="https://cdn.dribbble.com/users/1655164/screenshots/4818499/ss.gif" width="300" height = "100" />
 
 ## Tech Stack - Python, Excel, Tableau.
+  
+## Libraries used - Pandas,gspread
 </div>
 
 ## Objective of the Analysis
@@ -71,7 +73,7 @@ Similarly, there are top 5 moderate and high risk taking companies.
 
 
 ## Functionality of Dashboard 
-# An end to end dashboard which includes
+## An end to end dashboard which includes
 1. All the important variables of company like market Cap,Enterprise Value,Price to Earnings,Price to book value etc.
 2. Industry's Returns
 3. Sector's Average returns
