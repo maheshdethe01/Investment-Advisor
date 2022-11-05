@@ -2,7 +2,7 @@
   
   # Investment Advisor
   
-  Using Gsheets API ,automation of Google sheets.So that each time, we ran the ipynb file we will get the top 5 companies in each risk categories.
+  
   
 </div>
 <div align = "center" >
