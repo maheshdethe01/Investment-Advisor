@@ -14,6 +14,9 @@
 </div>
 
 ## Objective of the Analysis
+
+Automate gsheets using python
+
 To Keep Funds Safe & Secure.
 
 To Grow Your Funds Exponentially.
