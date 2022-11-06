@@ -94,8 +94,3 @@ The average 1 Year Return of the Pumps & Compression Industry is greater than th
 Drugs & Pharma Industries have more companies that can give 3-Year Return Positive.
 
 
-
-## Challenges 
-During automation of gsheets we wrote the same code several times.
-## Learning 
-We wrote a simple function so that for each input it will give us the required output.It saved a lot time.
