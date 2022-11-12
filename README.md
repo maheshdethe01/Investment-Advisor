@@ -6,7 +6,7 @@
   
 </div>
 <div align = "center" >
-<img src="https://cdn.dribbble.com/users/1655164/screenshots/4818499/ss.gif" width="300" height = "100" />
+
 
 
 
