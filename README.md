@@ -8,6 +8,11 @@
 <div align = "center" >
 <img src="https://cdn.dribbble.com/users/1655164/screenshots/4818499/ss.gif" width="300" height = "100" />
 
+<video width="320" height="240" autoplay>
+  <source src="movie.mp4" type="video/mp4">
+  <source src="movie.ogg" type="video/ogg">
+  Your browser does not support the video tag.
+</video>
 ## Tech Stack - Python, Excel, Tableau.
   
 ## Libraries used - Pandas,gspread
