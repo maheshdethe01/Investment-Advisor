@@ -7,7 +7,11 @@
 </div>
 <div align = "center" >
 <img src="https://cdn.dribbble.com/users/1655164/screenshots/4818499/ss.gif" width="300" height = "100" />
-https://user-images.githubusercontent.com/106676849/201480551-69491828-2623-447e-8750-ffc02b4650e8.mp4
+
+
+
+
+https://user-images.githubusercontent.com/106676849/201480725-45d9368f-e424-43c6-9f68-95a583c06ff8.mp4
 
 
   ## Tech Stack - Python, Excel, Tableau.
